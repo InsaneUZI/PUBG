@@ -1,0 +1,195 @@
+﻿  Overlay.cpp
+D:\源码\白色菜单stay\Include\imgui\imgui.h(3870,139): warning C4305: “参数”: 从“ImGuiChildFlags_”到“bool”截断
+D:\源码\白色菜单stay\Source\Utils\Engine.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\源码\白色菜单stay\Include\DMALibrary\libs\leechcore.h(120,15): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+D:\源码\白色菜单stay\Include\DMALibrary\libs\leechcore.h(473,14): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+D:\源码\白色菜单stay\Include\DMALibrary\libs\leechcore.h(482,14): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+D:\源码\白色菜单stay\Include\DMALibrary\libs\vmmdll.h(392,39): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+D:\源码\白色菜单stay\Include\DMALibrary\libs\vmmdll.h(1454,29): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+D:\源码\白色菜单stay\Include\DMALibrary\libs\vmmdll.h(1464,29): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+D:\源码\白色菜单stay\Include\DMALibrary\libs\vmmdll.h(1471,31): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+D:\源码\白色菜单stay\Include\DMALibrary\libs\vmmdll.h(1480,32): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+D:\源码\白色菜单stay\Include\DMALibrary\libs\vmmdll.h(1489,40): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+D:\源码\白色菜单stay\Include\DMALibrary\libs\vmmdll.h(1505,29): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+D:\源码\白色菜单stay\Include\DMALibrary\libs\vmmdll.h(1515,29): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+D:\源码\白色菜单stay\Include\DMALibrary\libs\vmmdll.h(1524,30): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+D:\源码\白色菜单stay\Include\DMALibrary\libs\vmmdll.h(1532,35): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+D:\源码\白色菜单stay\Include\DMALibrary\libs\vmmdll.h(1539,32): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+D:\源码\白色菜单stay\Include\DMALibrary\libs\vmmdll.h(1548,32): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+D:\源码\白色菜单stay\Include\DMALibrary\libs\vmmdll.h(1559,30): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+D:\源码\白色菜单stay\Include\DMALibrary\libs\vmmdll.h(1568,29): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+D:\源码\白色菜单stay\Include\DMALibrary\libs\vmmdll.h(1576,33): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+D:\源码\白色菜单stay\Include\DMALibrary\libs\vmmdll.h(1585,30): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+D:\源码\白色菜单stay\Include\DMALibrary\libs\vmmdll.h(1594,28): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+D:\源码\白色菜单stay\Include\DMALibrary\libs\vmmdll.h(1603,33): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+D:\源码\白色菜单stay\Include\DMALibrary\libs\vmmdll.h(2138,29): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+D:\源码\白色菜单stay\Source\Utils\Engine.h(287,17): warning C4267: “=”: 从“size_t”转换到“int32_t”，可能丢失数据
+D:\源码\白色菜单stay\Source\Utils\Engine.h(474,8): warning C4099: “FString”: 类型名称以前使用“struct”现在使用的是“class”
+D:\源码\白色菜单stay\Source\Utils\Engine.h(475,8): warning C4099: “FString”: 类型名称以前使用“struct”现在使用的是“class”
+D:\源码\白色菜单stay\Source\Utils\Engine.h(480,8): warning C4099: “FString”: 类型名称以前使用“struct”现在使用的是“class”
+D:\源码\白色菜单stay\Source\Utils\Engine.h(481,8): warning C4099: “FString”: 类型名称以前使用“struct”现在使用的是“class”
+D:\源码\白色菜单stay\Source\Utils\Engine.h(482,8): warning C4099: “FString”: 类型名称以前使用“struct”现在使用的是“class”
+D:\源码\白色菜单stay\Source\Utils\Engine.h(483,8): warning C4099: “FString”: 类型名称以前使用“struct”现在使用的是“class”
+D:\源码\白色菜单stay\Source\Utils\Engine.h(484,8): warning C4099: “FString”: 类型名称以前使用“struct”现在使用的是“class”
+D:\源码\白色菜单stay\Source\Utils\Engine.h(485,8): warning C4099: “FString”: 类型名称以前使用“struct”现在使用的是“class”
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(12,9): warning C4005: “DXGI_STATUS_OCCLUDED”: 宏重定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(13,9): warning C4005: “DXGI_STATUS_CLIPPED”: 宏重定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(14,9): warning C4005: “DXGI_STATUS_NO_REDIRECTION”: 宏重定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(15,9): warning C4005: “DXGI_STATUS_NO_DESKTOP_ACCESS”: 宏重定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(16,9): warning C4005: “DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE”: 宏重定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(17,9): warning C4005: “DXGI_STATUS_MODE_CHANGED”: 宏重定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(18,9): warning C4005: “DXGI_STATUS_MODE_CHANGE_IN_PROGRESS”: 宏重定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(21,9): warning C4005: “DXGI_ERROR_INVALID_CALL”: 宏重定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(22,9): warning C4005: “DXGI_ERROR_NOT_FOUND”: 宏重定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(23,9): warning C4005: “DXGI_ERROR_MORE_DATA”: 宏重定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(24,9): warning C4005: “DXGI_ERROR_UNSUPPORTED”: 宏重定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(25,9): warning C4005: “DXGI_ERROR_DEVICE_REMOVED”: 宏重定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(26,9): warning C4005: “DXGI_ERROR_DEVICE_HUNG”: 宏重定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(27,9): warning C4005: “DXGI_ERROR_DEVICE_RESET”: 宏重定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(28,9): warning C4005: “DXGI_ERROR_WAS_STILL_DRAWING”: 宏重定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(29,9): warning C4005: “DXGI_ERROR_FRAME_STATISTICS_DISJOINT”: 宏重定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(30,9): warning C4005: “DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE”: 宏重定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(31,9): warning C4005: “DXGI_ERROR_DRIVER_INTERNAL_ERROR”: 宏重定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(32,9): warning C4005: “DXGI_ERROR_NONEXCLUSIVE”: 宏重定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(33,9): warning C4005: “DXGI_ERROR_NOT_CURRENTLY_AVAILABLE”: 宏重定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(34,9): warning C4005: “DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED”: 宏重定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(35,9): warning C4005: “DXGI_ERROR_REMOTE_OUTOFMEMORY”: 宏重定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d11.h(917,9): warning C4005: “D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS”: 宏重定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d11.h(918,9): warning C4005: “D3D11_ERROR_FILE_NOT_FOUND”: 宏重定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d11.h(919,9): warning C4005: “D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS”: 宏重定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d11.h(920,9): warning C4005: “D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD”: 宏重定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d10.h(608,9): warning C4005: “D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS”: 宏重定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d10.h(609,9): warning C4005: “D3D10_ERROR_FILE_NOT_FOUND”: 宏重定义
+D:\源码\白色菜单stay\Source\Overlay\RenderHelper.h(264,51): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\源码\白色菜单stay\Source\Overlay\RenderHelper.h(448,67): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\源码\白色菜单stay\Source\Overlay\RenderHelper.h(540,73): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\源码\白色菜单stay\Source\Overlay\RenderHelper.h(565,67): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\源码\白色菜单stay\Source\Overlay\RenderHelper.h(577,59): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\源码\白色菜单stay\Source\Overlay\RenderHelper.h(602,39): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\源码\白色菜单stay\Source\Overlay\RenderHelper.h(603,39): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\源码\白色菜单stay\Source\Overlay\RenderHelper.h(614,38): warning C4305: “初始化”: 从“double”到“float”截断
+D:\源码\白色菜单stay\Source\Overlay\HealthBar.h(109,34): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\源码\白色菜单stay\Source\Overlay\HealthBar.h(167,21): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\源码\白色菜单stay\Source\Overlay\HealthBar.h(197,34): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\源码\白色菜单stay\Source\Hack\Decrypt.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\源码\白色菜单stay\Source\Hack\Radar.h(88,122): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\源码\白色菜单stay\Source\Hack\Radar.h(88,80): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\源码\白色菜单stay\Source\Overlay\ESP.h(126,28): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\源码\白色菜单stay\Source\Overlay\ESP.h(127,38): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\源码\白色菜单stay\Source\Overlay\ESP.h(135,44): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\源码\白色菜单stay\Source\Overlay\ESP.h(141,44): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\源码\白色菜单stay\Source\Overlay\ESP.h(156,65): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\源码\白色菜单stay\Source\Overlay\ESP.h(182,30): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\源码\白色菜单stay\Source\Overlay\ESP.h(183,19): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\源码\白色菜单stay\Source\Overlay\ESP.h(185,44): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\源码\白色菜单stay\Source\Overlay\ESP.h(237,141): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\源码\白色菜单stay\Source\Overlay\ESP.h(237,108): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\源码\白色菜单stay\Source\Overlay\ESP.h(300,114): warning C4244: “参数”: 从“ImU32”转换到“float”，可能丢失数据
+D:\源码\白色菜单stay\Source\Overlay\ESP.h(355,131): warning C4244: “参数”: 从“ImU32”转换到“float”，可能丢失数据
+D:\源码\白色菜单stay\Source\Overlay\ESP.h(357,238): warning C4244: “参数”: 从“ImU32”转换到“float”，可能丢失数据
+D:\源码\白色菜单stay\Source\Overlay\ESP.h(409,128): warning C4244: “参数”: 从“const int”转换到“float”，可能丢失数据
+D:\源码\白色菜单stay\Source\Overlay\ESP.h(415,26): warning C4244: “参数”: 从“uint64_t”转换到“DWORD”，可能丢失数据
+D:\源码\白色菜单stay\Source\Overlay\ESP.h(445,90): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\源码\白色菜单stay\Source\Overlay\ESP.h(445,48): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\源码\白色菜单stay\Source\Overlay\ESP.h(477,155): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\源码\白色菜单stay\Source\Overlay\ESP.h(495,124): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\源码\白色菜单stay\Source\Overlay\ESP.h(495,82): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\源码\白色菜单stay\Source\Overlay\ESP.h(704,76): warning C4244: “参数”: 从“int”转换到“const float”，可能丢失数据
+D:\源码\白色菜单stay\Source\Overlay\ESP.h(722,26): warning C4244: “参数”: 从“uint64_t”转换到“DWORD”，可能丢失数据
+D:\源码\白色菜单stay\Source\Overlay\ESP.h(728,26): warning C4244: “参数”: 从“uint64_t”转换到“DWORD”，可能丢失数据
+D:\源码\白色菜单stay\Source\Overlay\ESP.h(747,136): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\源码\白色菜单stay\Source\Overlay\ESP.h(775,137): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\源码\白色菜单stay\Source\Overlay\ESP.h(800,116): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\源码\白色菜单stay\Source\Overlay\ESP.h(812,137): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\源码\白色菜单stay\Source\Overlay\ESP.h(829,137): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\源码\白色菜单stay\Source\Overlay\ESP.h(841,137): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\源码\白色菜单stay\Source\Overlay\ESP.h(935,137): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\源码\白色菜单stay\Source\Overlay\ESP.h(941,136): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\源码\白色菜单stay\Source\Overlay\ESP.h(961,254): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\源码\白色菜单stay\Source\Overlay\ESP.h(961,138): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\源码\白色菜单stay\Source\Overlay\ESP.h(961,96): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\源码\白色菜单stay\Source\Overlay\ESP.h(974,23): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\源码\白色菜单stay\Source\Overlay\ESP.h(978,55): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\源码\白色菜单stay\Source\Overlay\ESP.h(979,55): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\源码\白色菜单stay\Source\Overlay\ESP.h(1006,24): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\源码\白色菜单stay\Source\Overlay\ESP.h(1010,56): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\源码\白色菜单stay\Source\Overlay\ESP.h(1011,56): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\源码\白色菜单stay\Source\Overlay\ESP.h(1013,71): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\源码\白色菜单stay\Source\Overlay\ESP.h(1014,71): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\源码\白色菜单stay\Source\Overlay\ESP.h(1016,71): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\源码\白色菜单stay\Source\Overlay\ESP.h(1017,71): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\源码\白色菜单stay\Source\Overlay\ESP.h(1021,22): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+D:\源码\白色菜单stay\Source\Overlay\ESP.h(1072,156): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\源码\白色菜单stay\Source\Overlay\ESP.h(1085,22): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+D:\源码\白色菜单stay\Source\Overlay\ESP.h(1141,156): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\源码\白色菜单stay\Source\Overlay\ESP.h(1154,22): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+D:\源码\白色菜单stay\Source\Overlay\Overlay.cpp(11,10): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+D:\源码\白色菜单stay\Source\Common\Config.h(407,76): warning C4477: “snprintf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“std::string”
+D:\源码\白色菜单stay\Source\Common\Config.h(412,80): warning C4477: “snprintf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“std::string”
+D:\源码\白色菜单stay\Source\Common\Config.h(417,80): warning C4477: “snprintf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“std::string”
+D:\源码\白色菜单stay\Include\imgui\imgui_settings.h(64,16): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+D:\源码\白色菜单stay\Source\Utils\NetConfig\kmboxNet.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\源码\白色菜单stay\Source\Utils\NetConfig\HidTable.h(121,9): warning C4005: “KEY_EXECUTE”: 宏重定义
+D:\源码\白色菜单stay\Source\Hack\Players.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\源码\白色菜单stay\Source\Hack\Players.h(627,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\源码\白色菜单stay\Source\Hack\Players.h(293,70): warning C4838: 从“unsigned __int64”转换到“uint32_t”需要收缩转换
+D:\源码\白色菜单stay\Source\Hack\Players.h(293,70): warning C4244: “初始化”: 从“unsigned __int64”转换到“uint32_t”，可能丢失数据
+D:\源码\白色菜单stay\Source\Hack\Players.h(293,114): warning C4838: 从“unsigned __int64”转换到“uint32_t”需要收缩转换
+D:\源码\白色菜单stay\Source\Hack\Players.h(293,114): warning C4244: “初始化”: 从“unsigned __int64”转换到“uint32_t”，可能丢失数据
+D:\源码\白色菜单stay\Source\Hack\Players.h(293,158): warning C4838: 从“unsigned __int64”转换到“uint32_t”需要收缩转换
+D:\源码\白色菜单stay\Source\Hack\Players.h(293,158): warning C4244: “初始化”: 从“unsigned __int64”转换到“uint32_t”，可能丢失数据
+D:\源码\白色菜单stay\Source\Hack\Players.h(293,202): warning C4838: 从“unsigned __int64”转换到“uint32_t”需要收缩转换
+D:\源码\白色菜单stay\Source\Hack\Players.h(293,202): warning C4244: “初始化”: 从“unsigned __int64”转换到“uint32_t”，可能丢失数据
+D:\源码\白色菜单stay\Source\Hack\Players.h(294,70): warning C4838: 从“unsigned __int64”转换到“uint32_t”需要收缩转换
+D:\源码\白色菜单stay\Source\Hack\Players.h(294,70): warning C4244: “初始化”: 从“unsigned __int64”转换到“uint32_t”，可能丢失数据
+D:\源码\白色菜单stay\Source\Hack\Players.h(294,114): warning C4838: 从“unsigned __int64”转换到“uint32_t”需要收缩转换
+D:\源码\白色菜单stay\Source\Hack\Players.h(294,114): warning C4244: “初始化”: 从“unsigned __int64”转换到“uint32_t”，可能丢失数据
+D:\源码\白色菜单stay\Source\Hack\Players.h(294,158): warning C4838: 从“unsigned __int64”转换到“uint32_t”需要收缩转换
+D:\源码\白色菜单stay\Source\Hack\Players.h(294,158): warning C4244: “初始化”: 从“unsigned __int64”转换到“uint32_t”，可能丢失数据
+D:\源码\白色菜单stay\Source\Hack\Players.h(294,202): warning C4838: 从“unsigned __int64”转换到“uint32_t”需要收缩转换
+D:\源码\白色菜单stay\Source\Hack\Players.h(294,202): warning C4244: “初始化”: 从“unsigned __int64”转换到“uint32_t”，可能丢失数据
+D:\源码\白色菜单stay\Source\Hack\Players.h(295,70): warning C4838: 从“unsigned __int64”转换到“uint32_t”需要收缩转换
+D:\源码\白色菜单stay\Source\Hack\Players.h(295,70): warning C4244: “初始化”: 从“unsigned __int64”转换到“uint32_t”，可能丢失数据
+D:\源码\白色菜单stay\Source\Hack\Players.h(295,114): warning C4838: 从“unsigned __int64”转换到“uint32_t”需要收缩转换
+D:\源码\白色菜单stay\Source\Hack\Players.h(295,114): warning C4244: “初始化”: 从“unsigned __int64”转换到“uint32_t”，可能丢失数据
+D:\源码\白色菜单stay\Source\Hack\Players.h(295,159): warning C4838: 从“unsigned __int64”转换到“uint32_t”需要收缩转换
+D:\源码\白色菜单stay\Source\Hack\Players.h(295,159): warning C4244: “初始化”: 从“unsigned __int64”转换到“uint32_t”，可能丢失数据
+D:\源码\白色菜单stay\Source\Hack\Players.h(295,204): warning C4838: 从“unsigned __int64”转换到“uint32_t”需要收缩转换
+D:\源码\白色菜单stay\Source\Hack\Players.h(295,204): warning C4244: “初始化”: 从“unsigned __int64”转换到“uint32_t”，可能丢失数据
+D:\源码\白色菜单stay\Source\Hack\Players.h(296,71): warning C4838: 从“unsigned __int64”转换到“uint32_t”需要收缩转换
+D:\源码\白色菜单stay\Source\Hack\Players.h(296,71): warning C4244: “初始化”: 从“unsigned __int64”转换到“uint32_t”，可能丢失数据
+D:\源码\白色菜单stay\Source\Hack\Players.h(296,116): warning C4838: 从“unsigned __int64”转换到“uint32_t”需要收缩转换
+D:\源码\白色菜单stay\Source\Hack\Players.h(296,116): warning C4244: “初始化”: 从“unsigned __int64”转换到“uint32_t”，可能丢失数据
+D:\源码\白色菜单stay\Source\Hack\Players.h(296,161): warning C4838: 从“unsigned __int64”转换到“uint32_t”需要收缩转换
+D:\源码\白色菜单stay\Source\Hack\Players.h(296,161): warning C4244: “初始化”: 从“unsigned __int64”转换到“uint32_t”，可能丢失数据
+D:\源码\白色菜单stay\Source\Hack\Players.h(296,206): warning C4838: 从“unsigned __int64”转换到“uint32_t”需要收缩转换
+D:\源码\白色菜单stay\Source\Hack\Players.h(296,206): warning C4244: “初始化”: 从“unsigned __int64”转换到“uint32_t”，可能丢失数据
+D:\源码\白色菜单stay\Source\Hack\Players.h(565,41): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\源码\白色菜单stay\Source\Hack\Players.h(566,46): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\源码\白色菜单stay\Source\Hack\Players.h(702,153): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\源码\白色菜单stay\Source\Hack\Players.h(702,111): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\源码\白色菜单stay\Source\Hack\Players.h(733,141): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\源码\白色菜单stay\Source\Hack\Players.h(733,99): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\源码\白色菜单stay\Source\Overlay\Menu\Menu.h(131,115): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\源码\白色菜单stay\Source\Overlay\Menu\Menu.h(132,116): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\源码\白色菜单stay\Source\Overlay\Menu\Menu.h(494,79): warning C4305: “参数”: 从“double”到“float”截断
+D:\源码\白色菜单stay\Source\Overlay\Menu\Menu.h(508,70): warning C4305: “参数”: 从“double”到“float”截断
+D:\源码\白色菜单stay\Source\Overlay\Menu\Menu.h(509,70): warning C4305: “参数”: 从“double”到“float”截断
+D:\源码\白色菜单stay\Source\Overlay\Menu\Menu.h(511,83): warning C4305: “参数”: 从“double”到“float”截断
+D:\源码\白色菜单stay\Source\Overlay\Menu\Menu.h(747,120): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\源码\白色菜单stay\Source\Overlay\Menu\Menu.h(974,64): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\源码\白色菜单stay\Source\Overlay\Menu\Menu.h(976,38): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\源码\白色菜单stay\Source\Overlay\Menu\Menu.h(977,44): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\源码\白色菜单stay\Source\Overlay\Menu\Menu.h(978,42): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\源码\白色菜单stay\Source\Overlay\Menu\Menu.h(980,50): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\源码\白色菜单stay\Source\Overlay\Map.h(48,17): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+D:\源码\白色菜单stay\Source\Overlay\Map.h(49,63): warning C4244: “参数”: 从“LONG”转换到“float”，可能丢失数据
+D:\源码\白色菜单stay\Source\Overlay\Map.h(49,48): warning C4244: “参数”: 从“LONG”转换到“float”，可能丢失数据
+D:\源码\白色菜单stay\Source\Utils\Engine.h(209,72): warning C4267: “参数”: 从“size_t”转换到“DWORD”，可能丢失数据
+    正在创建库 D:\源码\白色菜单stay\x64\GeminiPro\dma_pubg.lib 和对象 D:\源码\白色菜单stay\x64\GeminiPro\dma_pubg.exp
+  正在生成代码
+  5 of 15754 functions (<0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    108 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  dma_pubg.vcxproj -> D:\源码\白色菜单stay\x64\GeminiPro\dma_pubg.exe
