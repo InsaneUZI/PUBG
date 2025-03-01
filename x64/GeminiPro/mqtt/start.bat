@@ -1,1 +1,0 @@
-mqtt.exe -c mqtt.conf
